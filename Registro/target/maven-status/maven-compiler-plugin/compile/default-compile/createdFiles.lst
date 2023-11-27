@@ -1,2 +1,4 @@
-Main.class
-RegistroDePersonas\Registro.class
+vista\RegistroVista.class
+RegistroAppMain.class
+modelo\Persona.class
+controlador\RegistroController.class
